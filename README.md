@@ -1,4 +1,4 @@
-# onzero-ai
+# onzero
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,98 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-onzero-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://onzero.ai/
+Onzero AI provides a creative platform that enables AI agents to generate images, videos, music, and brand graphics. Users can connect their agents via the onzero MCP, choose from a variety of models across 12 creative domains, and automate production of marketing assets such as social posts, ads, and brand identity materials. The service offers tiered pricing plans, detailed documentation, and support for integration with popular AI assistants like Claude and ChatGPT.
+
+**Areas:** AI · Creative · Media · Platform · Generative
+
+## onzero on APIs.io
+
+Everything profiled for onzero is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/onzero-ai/](https://apis.io/providers/onzero-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [onzero MCP](https://apis.io/apis/onzero-ai/onzero-mcp/) — MCP (Media Creation Platform) provides tools for images, video, music, and brand graphics via a RESTful API documented at the MCP reference page.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [onzero Domain Security](https://apis.io/security/onzero-ai/onzero-ai-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [onzero Plans Pricing](https://apis.io/plans/onzero-ai/onzero-ai-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://onzero.ai/)
+- [Documentation](https://onzero.ai/en/docs/mcp)
+- [Pricing](https://onzero.ai/en/pricing)
+- [Support](https://onzero.ai/en/support)
+- [Blog](https://onzero.ai/en/blog)
+- [Terms of service](https://onzero.ai/en/terms)
+- [Privacy policy](https://onzero.ai/en/privacy)
+
+## API Evangelist rating
+
+**Kin Score 19.3** — emerging · rubric 0.28.0 · scored 2026-11-20
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 48.5 |
+
+**Agent readiness 21.8** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/onzero-ai/](https://apis.io/providers/onzero-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for onzero: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/onzero-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
